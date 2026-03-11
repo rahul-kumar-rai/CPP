@@ -18,6 +18,8 @@ clrscr();
  cout<<"\n================Basic data types==========================\n";
 
  cout<<"char | int | short int | logn int | float | double |long double";
+ //==========================================================================
+ cout<<"char | sizeof | order of precedence | type of conversion (implicit, explicit) | constent | veriable |input/output";
 
  cout<<"\n================Tokens====================================\n";
 
