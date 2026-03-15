@@ -16,8 +16,9 @@
 
 ###### example :- 
 ```
-char A[50] // "char" data types "A" is name of data types "[50]"  number of charectors store 
+char A[50] 
 ```
+- "char" data types "A" is name of data types "[50]"  number of charectors store 
 ## Token 
 - A token is a group of characters that logically belong together.
 - keywords, 
